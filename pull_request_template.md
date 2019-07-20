@@ -1,6 +1,6 @@
 <!--- Please fill out the following template, which will help other contributors review your Pull Request. -->
 
-<!--- Make sure you’ve read the contribution guidelines here: https://github.com/obsproject/obs-studio/blob/master/CONTRIBUTING.rst -->
+<!--- Make sure you’ve read the contribution guidelines -->
 
 ### Description
 <!--- Describe your changes in detail. -->
